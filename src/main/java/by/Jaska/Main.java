@@ -12,6 +12,9 @@ public class Main {
             }
             System.out.println("not again");
             String name;
+            if(i % 2 == 0){
+                System.out.println(i);
+            }
 
         }
     }
