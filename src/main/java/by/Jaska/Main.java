@@ -7,6 +7,7 @@ public class Main {
         for(int i = 1; i <= number; i++){
             System.out.println(i);
             System.out.println("hi");
+            System.out.println("not again");
         }
     }
 }
