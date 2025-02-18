@@ -10,6 +10,8 @@ public class Main {
             if(i % 2 == 0){
                 System.out.println(i);
             }
+            System.out.println("not again");
+            String name;
 
         }
     }
